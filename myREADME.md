@@ -8,6 +8,6 @@ Here is a live link to the Weather Dashboard. https://cnperkins.github.io/Weathe
 
 I've added a screenshot of the webpage in the assets folder.
 
-Thank you for checking out my day planner!
+Thank you!
 
 Chloe Perkins
